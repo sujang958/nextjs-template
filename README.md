@@ -17,6 +17,11 @@
 $ git clone https://github.com/sujang958/nextjs-template
 ```
 
+### Install dependencies
+```sh
+$ yarn
+```
+
 ## For VSCode
 ### Install this plugin
 https://marketplace.visualstudio.com/items?itemName=arcanis.vscode-zipfs
@@ -34,7 +39,3 @@ And choose `Use Workspace Version`
 
 > _If you use other editors, see https://yarnpkg.com/getting-started/editor-sdks_
 
-### Install dependencies
-```sh
-$ yarn
-```
