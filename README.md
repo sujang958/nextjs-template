@@ -11,13 +11,36 @@
 
 
 ## Getting Started
-### Clone this repo
+
+### Option 1 (Recommended)
+
+> Install with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
+
+- With yarn (Recommended)
+
+  ```bash
+  yarn create next-app -e https://github.com/sujang958/nextjs-template
+  ```
+
+- With npm
+
+  ```bash
+  npx create-next-app@latest -e https://github.com/sujang958/nextjs-template
+  ```
+
+- With pnpm
+  ```bash
+  pnpm create next-app -e https://github.com/sujang958/nextjs-template
+  ```
+
+### Options 2
+#### Clone this repo
 
 ```sh
 $ git clone https://github.com/sujang958/nextjs-template
 ```
 
-### Install dependencies
+#### Install dependencies
 
 ```sh
 $ yarn
